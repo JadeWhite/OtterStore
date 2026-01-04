@@ -1,0 +1,13 @@
+{
+	"name": "com.pinwheel.otter-store",
+	"version": "1.0.0",
+	"displayName": "Otter Store",
+	"description": "A zustand-like store for Unity.",
+	"dependencies": {
+		"com.unity.nuget.newtonsoft-json": "3.2.1"
+	},
+	"unity": "6000.2",
+	"author": {
+		"name": "Jade White"
+	}
+}
