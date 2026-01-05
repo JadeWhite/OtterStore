@@ -24,6 +24,7 @@ bld/
 [Ll]ogs/
 
 .DS_Store
+.idea/**
 
 # .NET Core
 project.lock.json
@@ -57,5 +58,3 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-
-*.meta

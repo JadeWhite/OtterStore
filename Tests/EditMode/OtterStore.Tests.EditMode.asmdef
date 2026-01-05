@@ -2,7 +2,7 @@
     "name": "EditMode",
     "rootNamespace": "",
     "references": [
-        "GUID:62d8d408bac8648b2ab69185086aa8e6",
+        "GUID:8bd0adee900d342f1a979382c3e229ae",
         "GUID:e3df44a3ed40f44ab9345fa8fc8411bf",
         "GUID:0acc523941302664db1f4e527237feb3"
     ],
